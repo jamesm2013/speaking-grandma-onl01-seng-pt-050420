@@ -16,7 +16,8 @@
 def speak_to_grandma (text)
   IF text == "I LOVE YOU TO GRANDMA!"
      return "I LOVE YOU TOO PUMPKIN!"
-  Elsif == phrase.DOWNCASE
+  Elsif 
+       text== phrase.DOWNCASE
      return "NO, NOT SINCE 1938!"
   ELSE 
      return "HUH?! SPEAK UP, SONNY!"
