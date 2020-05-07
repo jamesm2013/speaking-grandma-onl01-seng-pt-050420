@@ -13,7 +13,7 @@
 # 'I LOVE YOU TOO PUMPKIN!'
 
 
-def speak_to_grandma
+def speak_to_grandma (phrase)
   IF phrase == "I LOVE YOU TO GRANDMA!"
      return "I LOVE YOU TOO PUMPKIN!"
   Elsif phrase == phrase.DOWNCASE
