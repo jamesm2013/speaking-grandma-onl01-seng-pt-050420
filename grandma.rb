@@ -1,5 +1,5 @@
 def speak_to_grandma (text)
-  IF text == "I LOVE YOU TO GRANDMA!"
+  IF  text == "I LOVE YOU TO GRANDMA!"
      return "I LOVE YOU TOO PUMPKIN!"
   Elsif 
        text = nil && text.upcase == text
